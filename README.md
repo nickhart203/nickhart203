@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nickhart203, a product designer
-- 👀 I’m interested in product design
+- 👋 Hi, I’m nick, a product designer
 - 📫 How to reach me: nick@opra.design or on our website https://opra.design
 
 <!---
